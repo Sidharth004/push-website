@@ -4235,7 +4235,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 57349:
+/***/ 28955:
 /***/ ((module) => {
 
 "use strict";
@@ -5041,7 +5041,7 @@ module.exports = function (metaData, opt) {
 
 
 let constants = __webpack_require__(11496);
-let CrcStream = __webpack_require__(57349);
+let CrcStream = __webpack_require__(28955);
 let bitPacker = __webpack_require__(94065);
 let filter = __webpack_require__(67116);
 let zlib = __webpack_require__(59796);
@@ -5491,7 +5491,7 @@ module.exports = function (buffer, options) {
 
 
 let constants = __webpack_require__(11496);
-let CrcCalculator = __webpack_require__(57349);
+let CrcCalculator = __webpack_require__(28955);
 
 let Parser = (module.exports = function (options, dependencies) {
   this._options = options;
